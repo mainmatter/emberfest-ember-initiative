@@ -1,6 +1,7 @@
 <style>
   .layout-v-split {
     display: flex;
+    align-items: center;
     gap: 80px;
   }
   .layout-v-split-item {
