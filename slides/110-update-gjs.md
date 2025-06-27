@@ -1,5 +1,1 @@
-# update-gjs
-
-Note:
-
-This note is only visible to the presenter.
+<img alt="embroider integration from GitHub" src="embroider.webp">
