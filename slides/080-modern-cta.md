@@ -1,5 +1,7 @@
-# modern-cta
+<!-- .slide: data-background-color="var(--primary)" -->
 
-Note:
+> The future is already here – 
+> it's just not evenly<br> 
+> distributed.
 
-This note is only visible to the presenter.
+*William Gibson*
