@@ -1,0 +1,1 @@
+<img alt="ember-vite-codemod integration from GitHub" src="ember-vite-codemod.webp">

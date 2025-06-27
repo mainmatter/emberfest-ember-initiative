@@ -1,0 +1,1 @@
+<img alt="embroider integration from GitHub" src="embroider.webp">
