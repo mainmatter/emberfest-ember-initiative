@@ -6,6 +6,3 @@
 <br>
 <div class="fragment">🚀 How we made it possible</div>
 
-Note:
-
-This note is only visible to the presenter.

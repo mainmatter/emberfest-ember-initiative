@@ -1,5 +1,3 @@
-# ember-initiative-inspector-handsup
+<!-- .slide: data-background-color="var(--primary)" -->
 
-Note:
-
-This note is only visible to the presenter.
+🐹 Do you use the **Ember Inspector**?
