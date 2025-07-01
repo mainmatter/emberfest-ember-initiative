@@ -4,7 +4,10 @@
 .card-wrapper {
   width: 100%;
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: 1fr 1fr;
+}
+
+.profiles {
   gap: 200px;
 }
 
@@ -28,7 +31,7 @@
 }
 </style>
 
-<div class="card-wrapper">
+<div class="card-wrapper profiles">
 
   <div class="card">
     <div class="profile-wrapper">
