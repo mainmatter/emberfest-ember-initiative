@@ -1,16 +1,15 @@
+<!-- .slide: data-header=" > What does it mean for you? > Vite" -->
+
 <style>
   ol {
     height: 176px;
+    margin-top: 0px;
   }
 
   .tomster-wrapper {
     width: 100%;
     display: grid;
     grid-template-columns: 1fr 4fr;
-  }
-
-  .teaching-tomster {
-    box-shadow: none;
   }
 
   .note {
@@ -22,15 +21,10 @@
   }
 </style>
 
-<div class="breadcrum">
-  > What does it mean for you? > Vite
-</div>
-
-### The “easy” order
+### The “easier” order
 
 <div class="tomster-wrapper">
-  <img class="teaching-tomster" alt="Teaching Tomster" src="/teaching-tomster.png">
-
+  <img class="no-shadow" alt="Teaching Tomster" src="/teaching-tomster.png">
   <ol>
     <li class="fragment update-action">
       Upgrade to 3.28<br>

@@ -1,10 +1,8 @@
-<div class="breadcrum">
-  > Ember is modern now
-</div>
+<!-- .slide: data-header=" > Ember is modern now > TypeScript" -->
 
 ### TypeScript
 
-<div class="layout-v-split no-gap">
+<div class="layout-v-split">
   <div class="layout-v-split-item logo">
     <img class="no-shadow" alt="TypeScript logo" src="/ts-logo.svg">
   </div>

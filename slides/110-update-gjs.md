@@ -1,12 +1,9 @@
-<div class="breadcrum">
-  > What does it mean for you? > GJS
-</div>
+<!-- .slide: data-header=" > What does it mean for you? > GJS" -->
 
-### The “easy” order
+### The “easier” order
 
 <div class="tomster-wrapper">
-  <img class="teaching-tomster" alt="Teaching Tomster" src="/teaching-tomster.png">
-
+  <img class="no-shadow" alt="Teaching Tomster" src="/teaching-tomster.png">
   <ol>
     <li class="update-action">
       Use @embroider/template-tag-codemod<br>

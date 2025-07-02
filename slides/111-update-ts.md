@@ -1,0 +1,1 @@
+// Funny drawing about TypeScript feeling lonely

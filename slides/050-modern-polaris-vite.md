@@ -1,9 +1,17 @@
+<!-- .slide: data-header=" > Ember is modern now > vite" -->
+
 <style>
-  .no-shadow {
-    box-shadow: none;
-  }
   .vite {
     max-width: 352px;
+  }
+  .layout-v-split {
+    display: flex;
+    align-items: center;
+    gap: 80px;
+  }
+  .layout-v-split-item {
+    flex-direction: row;
+    flex: 1 1 0px;
   }
   .layout-v-split.no-gap {
     gap: 0px;
@@ -13,14 +21,10 @@
   }
 </style>
 
-<div class="breadcrum">
-  > Ember is modern now
-</div>
-
 ### Vite
 
-<div class="layout-v-split no-gap">
-  <div class="layout-v-split-item logo">
+<div class="layout-v-split">
+  <div class="logo layout-v-split-item">
     <img class="vite no-shadow" alt="Vite logo" src="/vite-logo.svg">
   </div>
 

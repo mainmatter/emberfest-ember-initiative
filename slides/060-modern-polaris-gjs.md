@@ -1,4 +1,6 @@
 
+<!-- .slide: data-header=" > Ember is modern now > GJS" -->
+
 <style>
 .ember-box {
   background-color: #e04e39;
@@ -11,15 +13,10 @@
 }
 </style>
 
-
-<div class="breadcrum">
-  > Ember is modern now
-</div>
-
 ### GJS components
 
-<div class="layout-v-split no-gap">
-  <div class="layout-v-split-item logo">
+<div class="layout-v-split">
+  <div class="layout-v-split-item">
     <div class="ember-box">
       <div class="gjs">GJS</div>
     </div>

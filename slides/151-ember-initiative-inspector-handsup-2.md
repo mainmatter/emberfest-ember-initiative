@@ -1,4 +1,4 @@
-<!-- .slide: data-background-color="var(--primary)" -->
+<!-- .slide: data-background-color="var(--primary)" data-header=" > The Ember Initiative > The case of Ember Inspector" -->
 
 🐹 Did you know that<br/>
 from October 2024 to June 2025 (9 months)<br/>
