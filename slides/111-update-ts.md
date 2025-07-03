@@ -1,1 +1,1 @@
-// Funny drawing about TypeScript feeling lonely
+<img alt="Hamster with GJS, Vite and TypeScript T-shirts" class="no-shadow" src="/tech-hamsters.png">
